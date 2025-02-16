@@ -11,8 +11,9 @@
 ```
  python AiBao.py
  ``` 
+- 输出文本在 output目录下
 
- - AiBao.py 内配置参数：
+- AiBao.py 内配置参数：
  ```
 WAIT_TIME_PER_THREAD = 1  # 每个线程等待的时间（秒）
 THREAD_PER_CHUNCK = 5  # 每组多少条线程
